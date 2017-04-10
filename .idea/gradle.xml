@@ -8,12 +8,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-<<<<<<< HEAD
             <option value="$PROJECT_DIR$/mobile" />
             <option value="$PROJECT_DIR$/wear" />
-=======
-            <option value="$PROJECT_DIR$/app" />
->>>>>>> caa3dc14412a5f5d7404d27c666c8a2d3e5dcd83
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
